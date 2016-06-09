@@ -1,0 +1,12 @@
+{
+    "name": "kenjis/php-code-benchmarks",
+    "require": {
+        "phpbench/phpbench": "^1.0@dev"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Kenjis\\": "lib"
+        }
+    }
+}
